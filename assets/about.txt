@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Sumana
+- Font Author: Copyright Â© 2015 by Cyreal. All rights reserved.
+- Font Source: http://fonts.gstatic.com/s/sumana/v5/4UaDrE5TqRBjGj-G8Bji76zR4w.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
