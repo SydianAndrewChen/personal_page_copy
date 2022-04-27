@@ -17,7 +17,7 @@ type: page
 
 * GitHub：[SydianAndrewChen](https://github.com/SydianAndrewChen)
 * email: 1149746788@qq.com
-* [知乎](https://www.zhihu.com/people/gaohaoyang)
+* [知乎](https://www.zhihu.com/people/jm-can)
 * [bilibili](https://space.bilibili.com/13742193?spm_id_from=333.1007.0.0)
 
 ## 关于网站
