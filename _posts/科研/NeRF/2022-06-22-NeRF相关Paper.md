@@ -16,9 +16,21 @@ tags: 科研 深度学习 NeRF
 ## 未读
 - mipnerf360
 - [nerv](https://pratulsrinivasan.github.io/nerv/)
+- [nerfactor](https://xiuming.info/projects/nerfactor/)
 - [nerd](https://markboss.me/publication/2021-nerd/)
+- [nerf-osr](https://4dqv.mpi-inf.mpg.de/NeRF-OSR/)
 - awesome-nerf
 - [nex](https://nex-mpi.github.io/)
 - [neural-pil](https://arxiv.org/abs/2110.14373)
 
-https://arxiv.org/abs/2110.07674
+[Appearance Editing with Free-viewpoint Neural Rendering](https://arxiv.org/abs/2110.07674)
+
+[Physically-Based Editing of Indoor Scene Lighting from a Single Image](https://arxiv.org/abs/2205.09343)
+
+[SAMURAI: Shape And Material from Unconstrained Real-world Arbitrary Image collections](https://arxiv.org/abs/2205.15768)
+
+[Physically-Based Editing of Indoor Scene Lighting from a Single Image](https://arxiv.org/abs/2205.09343)
+
+[Neural Relightable Participating Media Rendering](https://arxiv.org/abs/2110.12993)
+
+[Neural Relighting and Expression Transfer On Video Portraits](https://arxiv.org/abs/2107.14735)
