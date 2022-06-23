@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【Paper阅读】NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis"
+title: "【Paper阅读】NeRF相关Paper目录以及进度记录"
 date: 2022-06-06 21:05:00 +0800
 category: 科研
 tags: 科研 深度学习 NeRF
@@ -12,10 +12,10 @@ tags: 科研 深度学习 NeRF
 - volsdf
 - instantngp
 - mipnerf
+- [nerv](https://pratulsrinivasan.github.io/nerv/)
 
 ## 未读
 - mipnerf360
-- [nerv](https://pratulsrinivasan.github.io/nerv/)
 - [nerfactor](https://xiuming.info/projects/nerfactor/)
 - [nerd](https://markboss.me/publication/2021-nerd/)
 - [nerf-osr](https://4dqv.mpi-inf.mpg.de/NeRF-OSR/)
