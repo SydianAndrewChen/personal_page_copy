@@ -1,10 +1,15 @@
 ---
 layout: post
 title: "【Paper阅读】NeRF相关Paper目录以及进度记录"
-date: 2022-06-06 21:05:00 +0800
+date: 2022-06-22 21:05:00 +0800
 category: 科研
 tags: 科研 深度学习 NeRF
 ---
+
+nerf相关paper记录，同时会记录其中已读的和未读的部分。
+
+
+
 
 
 ## 已读

@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "3477d601347f50ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "0db355fc0f24d6e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85993797bc545325",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/科研/提取眉毛特征.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be0617b26ef8c80c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d6fa1c79cfdc2a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "508926414b236b29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0bf7de1d1f068f13",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e886b73787793fee",
+    "type": "split",
+    "children": [
+      {
+        "id": "676621bc64e51d6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e3450733b7da3b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_drafts/科研/提取眉毛特征.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "85993797bc545325",
+  "lastOpenFiles": [
+    "_drafts/科研/提取眉毛特征.md"
+  ]
+}
