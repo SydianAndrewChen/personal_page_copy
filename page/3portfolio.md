@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio
-permalink: /collection/
+permalink: /portfolio/
 icon: bookmark
 type: page
 ---
@@ -20,6 +20,10 @@ type: page
 
 ### Unreal Shader Demo
 - A demonstration of shaders following the tutorial of []()
+- In this Unreal project, several shaders have been implemented
+    - 
+    - 
+    - Water Shader(Simple caustic effects included)
 - [Download](https://hcslab.cuhk.edu.cn/game-launch-newbie-village-of-cuhksz/)
 
 ### OpenGL Renderer Demo
@@ -29,4 +33,5 @@ type: page
 - A renderer written by QOpenGL
 
 ### Database Course Project Demo
-- A 
+- A course project in Database course.
+- In this project, I am the front-end developer. I implemented using Vue framework, and managed to maintain the state using VueX
